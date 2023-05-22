@@ -1,0 +1,16 @@
+{
+    "name": "EditorExploration.Editor",
+    "rootNamespace": "EditorExploration.Editor",
+    "references": [
+        "GUID:db24ee47aeb589b49a27e9c7450f3f35"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
